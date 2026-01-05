@@ -1,0 +1,1 @@
+{"identifier":"local-canary","url":"http://localhost:9000/canary","method":"GET","status_online":200,"frequency":"10s","fail_after":3}
