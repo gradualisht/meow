@@ -1,0 +1,8 @@
+{
+  "identifier": "local-canary-post",
+  "url": "http://localhost:9000/canary",
+  "method": "GET",
+  "status_online": 200,
+  "frequency": "8s",
+  "fail_after": 2
+}
